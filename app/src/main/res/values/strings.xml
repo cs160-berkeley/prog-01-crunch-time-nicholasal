@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calorie Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_exercise">Choose one of the following exercises:</string>
+    <string name="pushup">Pushup</string>
+    <string name="situp">Situp</string>
+    <string name="jump_jack">Jumping Jacks</string>
+    <string name="jogging">Jogging</string>
+    <string name="choosen">You have choose:</string>
+    <string name="reps_mins">Reps Or Minutes:</string>
+    <string name="pushup_situp">Pushup/Situp</string>
+    <string name="jump_jogging">Jumping Jack/Jogging</string>
+    <string name="congrats">Congrats You Just Burn</string>
+    <string name="numofCalories">0</string>
+    <string name="cal">Calories</string>
+    <string name="converter">Exercises Converter</string>
+    <string name="equal">=</string>
+    <string name="numofExercise">0</string>
+    <string name="calculate">Calculate</string>
+
+    <string-array name="reps_mins_Exercise">
+        <item>Reps Of Pushup</item>
+        <item>Reps Of Situp</item>
+        <item>Reps Of Squats</item>
+        <item>Mins Of Leg-lift</item>
+        <item>Mins Of Plank</item>
+        <item>Mins Of Jumping Jacks</item>
+        <item>Reps Of Pullup</item>
+        <item>Mins Of Cycling</item>
+        <item>Mins Of Walking</item>
+        <item>Mins Of Jogging</item>
+        <item>Mins Of Swimming</item>
+        <item>Mins Of Stair-Climbing</item>
+    </string-array>
+
+</resources>
