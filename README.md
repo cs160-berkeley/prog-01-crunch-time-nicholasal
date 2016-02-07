@@ -18,17 +18,12 @@ https://vimeo.com/154458193
 
 ## Screenshots
 
-<img src="screenshots/1.png" height="400" alt="Screenshot1"/>
-<img src="screenshots/2.png" height="400" alt="Screenshot2"/>
-<img src="screenshots/3.png" height="400" alt="Screenshot3"/>
-<img src="screenshots/4.png" height="400" alt="Screenshot4"/>
-<img src="screenshots/5.png" height="400" alt="Screenshot5"/>
-<img src="screenshots/6.png" height="400" alt="Screenshot6"/>
+<img src="screenshots/picture1.png" height="400" alt="Screenshot1"/>
+<img src="screenshots/picture2.png" height="400" alt="Screenshot2"/>
+<img src="screenshots/picture3.png" height="400" alt="Screenshot3"/>
+<img src="screenshots/picture4.png" height="400" alt="Screenshot4"/>
+<img src="screenshots/picture5.png" height="400" alt="Screenshot5"/>
+<img src="screenshots/picture6.png" height="400" alt="Screenshot6"/>
 
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
